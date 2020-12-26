@@ -1,0 +1,4 @@
+net/textilemc/examplemod/ExampleMod.java
+ net.textilemc.examplemod.ExampleMod
+net/textilemc/examplemod/mixin/ExampleMixin.java
+ net.textilemc.examplemod.mixin.ExampleMixin

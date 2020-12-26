@@ -1,0 +1,4 @@
+[19:13:37] [main/INFO] (FabricLoader) Loading for game Minecraft 201006183
+[19:13:37] [main/INFO] (Fabric|Loader) [FabricLoader] Loading 3 mods: minecraft@201006183, fabricloader@0.10.6+build.214, modid@1.0.0
+[19:13:37] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/micha/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8.2+build.24/e5a741445d0f425bf3cce946c6cf8c7fb8376b2/sponge-mixin-0.8.2+build.24.jar Service=Knot/Fabric Env=CLIENT
+[19:13:37] [main/INFO] (Fabric|MixinBootstrap) Loaded Fabric development mappings for mixin remapper!
